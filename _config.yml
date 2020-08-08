@@ -1,0 +1,14 @@
+title: Aakash Varambhia # your name (or website title) here
+logo: "/images/logo_circle.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br> Data Scientist. This portfolio is a representation of some of my side projects that I have undertaken over the years. 
+  <br><br> My personal philosophy on Data Science is that in order for a project to be truly successful, one must look beyond models on Jupyter Notebooks and deliver a complete end to end pipeline. 
+  <br><br>
+  <a href="https://scholar.google.co.uk/citations?user=n198CzMAAAAJ&hl=en">View My Publications</a> <br>
+  <a href="https://linkedin.com/in/amvarambhia">View My LinkedIn Profile</a> <br>
+  <a href="https://twitter.com/AVarambhia">Twitter</a> <br>
+  <a href="https://www.instagram.com/aakshmv/">Instagram</a> <br>
+
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-65648774-1 # your Google Analytics tracking ID here
