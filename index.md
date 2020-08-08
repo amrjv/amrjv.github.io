@@ -5,7 +5,7 @@
 [end-to-end pipeline for brain cell tomography](/pages/end_to_end_pipeline_for_brain_cell_tomography/page)
 <img src="/pages/end_to_end_pipeline_for_brain_cell_tomography/figure0.png?raw=true"/>
 
-[cell segmentation with autoML](/sample_page)
+[cell segmentation with autoML](/whole_pages/end_to_end_pipeline_for_brain_cell_tomography/page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Auto-image rotation for MRI images](/sample_page)
