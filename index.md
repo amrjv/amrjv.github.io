@@ -5,19 +5,22 @@
 [end-to-end pipeline for brain cell tomography](/pages/end_to_end_pipeline_for_brain_cell_tomography/page)
 <img src="/pages/end_to_end_pipeline_for_brain_cell_tomography/figure0.png?raw=true"/>
 
-[cell segmentation with autoML](/whole_pages/end_to_end_pipeline_for_brain_cell_tomography/page)
+[semi-supervised segmentation with autoML](/pages/semi_supervised_segmentation_with_autoML/page)
+<img src="/pages/semi_supervised_segmentation_with_autoML/cover_image.PNG?raw=true"/>
+
+[particle separation with clustering](/pages/cell_segmentation_with_autoML/page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Auto-image rotation for MRI images](/sample_page)
+[k-means quantization of colored images](/pages/cell_segmentation_with_autoML/page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-[Simple rigid image alignment](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 ### Dashboards
-[Electron energy loss database](/sample_page)
+[Exploring dash-bio capabilities](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Google news web scraper and summariser](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ### PhD Project
 [Quantitative STEM of catalyst nanoparticles](/pdf/phd_project.pdf)
