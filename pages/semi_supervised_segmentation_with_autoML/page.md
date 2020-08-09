@@ -11,7 +11,7 @@ A schema of the JEOL ARM 200CF electron microscope at the University of Oxford M
 Often images taken from electron microscopes are processed manually. Here we want to segment the various phases of the crystal.
 
 <img src="/pages/semi_supervised_segmentation_with_autoML/Molybdenum-Oxide-Crystals-in-DFa-620x400.jpg?raw=true"/>
-credit: https://deben.co.uk/detectors/stem-detector/
+credit: <a href="https://deben.co.uk/detectors/stem-detector/">https://deben.co.uk/detectors/stem-detector/</a>
 
 ### 1. Segmentation method
 
@@ -24,17 +24,17 @@ The idea of the workflow is as follows:
 For the interactive segmentation the dash canvas tool was used to paint over the relevant pixels within the image
 
 <img src="https://raw.githubusercontent.com/plotly/dash-canvas/master/doc/segmentation.gif"/>
-credit: https://github.com/plotly/dash-canvas
+credit: <a href="https://github.com/plotly/dash-canvas">https://github.com/plotly/dash-canvas</a>
 
 For the image pre-processing, a set of filters similar to the WEKA segmentation approach was used
 
 <img src="/pages/semi_supervised_segmentation_with_autoML/WEKA.png?raw=true"/>
-credit: https://imagej.net/Trainable_Weka_Segmentation
+credit: <a href="https://imagej.net/Trainable_Weka_Segmentation">https://imagej.net/Trainable_Weka_Segmentation</a>
 
 For creating the machine learning classifier, an autoML tool such as TPOT was used. TPOT allows the automation of ML pipeline building by combining genetic programming and data pre-processing workflows from scikit-image. 
 
 <img src="/pages/semi_supervised_segmentation_with_autoML/TPOT.png?raw=true"/>
-credit: https://imagej.net/Trainable_Weka_Segmentation
+credit: credit: <a href="http://epistasislab.github.io/tpot/">http://epistasislab.github.io/tpot/</a>
 
 For demonstration purposes, the optimiser was run for 20mins to create the pipeline shown below that was used for segmentation. 
 
