@@ -1,4 +1,4 @@
-## Semi-supervised segmentation with AutoML
+## Particle separation with clustering methods and auto-thresholding.
 
 **Project description:** 
 
