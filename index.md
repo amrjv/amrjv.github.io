@@ -8,11 +8,9 @@
 [semi-supervised segmentation with autoML](/pages/semi_supervised_segmentation_with_autoML/page)
 <img src="/pages/semi_supervised_segmentation_with_autoML/cover_image.PNG?raw=true"/>
 
-[particle separation with clustering](/pages/cell_segmentation_with_autoML/page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[particle separation with clustering](/pages/particle_separation_with_clustering/page)
+<img src="/pages/particle_separation_with_clustering/cover_image.PNG?raw=true"/>
 
-[k-means quantization of colored images](/pages/cell_segmentation_with_autoML/page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Dashboards
 [Exploring dash-bio capabilities](/sample_page)
