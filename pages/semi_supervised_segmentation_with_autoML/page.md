@@ -49,7 +49,7 @@ classification_pipeline = make_pipeline(
 
 ### 2. The demonstration of the workflow as a web application 
 
-The complete workflow describe here can be packaged into a web application shown in the video. In this demonstration a MoS2 crystal’s phases are identified by painting over them and then used to train a classifier model for segmentation purposes. 
+The complete workflow described here can be packaged into a web application shown in the video below. In this demonstration a MoS2 crystal’s phases are identified by painting over them and then used to train a classifier model for segmentation purposes. 
 
 <video width="500" height="246" controls>
   <source src="/pages/semi_supervised_segmentation_with_autoML/dash_ml_paint.mp4" type="video/mp4">
