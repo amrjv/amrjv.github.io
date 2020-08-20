@@ -33,9 +33,13 @@ An alternative approach would be to apply a apply a distance transform over the 
 
 <img src="/pages/particle_separation_with_clustering/localised_clustering_schema.png?raw=true"/>
 
- The resultant output of the labelling in shown below. [need to add the actual result here]
+ The resultant output of the labelling in shown below. 
 
-<img src="/pages/particle_separation_with_clustering/image_seg_side_by_side.png?raw=true"/>
+<img src="/pages/particle_separation_with_clustering/image_seg_clust_side_by_side.png?raw=true"/>
+
+A close-up comparison of the before and after k-means separation for one of the regions is shown below.
+
+<img src="/pages/particle_separation_with_clustering/before_and_after_clustering.png?raw=true"/>
 
 ### 2. The demonstration of the workflow as a web application 
 
@@ -43,7 +47,7 @@ The complete workflow described here can be packaged into a web application show
 
 [add actual video here]
 <video width="500" height="246" controls>
-  <source src="/pages/semi_supervised_segmentation_with_autoML/dash_ml_paint.mp4" type="video/mp4">
+  <source src="/pages/particle_separation_with_clustering/clustering.mp4" type="video/mp4">
 </video>
 
 .
