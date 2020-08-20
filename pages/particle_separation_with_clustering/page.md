@@ -35,7 +35,7 @@ An alternative approach would be to apply a apply a distance transform over the 
 
  The resultant output of the labelling in shown below. [need to add the actual result here]
 
-<img src="/pages/particle_separation_with_clustering/localised_clustering_schema.png?raw=true"/>
+<img src="/pages/particle_separation_with_clustering/image_seg_side_by_side.png?raw=true"/>
 
 ### 2. The demonstration of the workflow as a web application 
 
