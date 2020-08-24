@@ -11,21 +11,27 @@
 [particle separation with clustering](/pages/particle_separation_with_clustering/page)
 <img src="/pages/particle_separation_with_clustering/cover_image.PNG?raw=true"/>
 
+<!---
 ### Dashboards
 [Exploring displaying capabilities for atomic models using dash](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Google news web scraper and summariser](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+--->
 
 ### Automated HTML reporting from web app outputs
-[automated reporting of outputs from web applications](/pages/particle_separation_with_clustering/page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[automated reporting of outputs from web applications](/pages/automated_reporting/report3D.html)
+<img src="/pages/particle_separation_with_clustering/cover_image.PNG?raw=true"/>
 
 
 ### PhD Project
 [Quantitative STEM of catalyst nanoparticles](/pdf/phd_project.pdf)
 <img src="images/project_cycle.PNG?raw=true"/>
+
+### Digital Artwork
+[using style transfer to create art](/pages/particle_separation_with_clustering/page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <!---
 ### Random Kaggle Projects that I did a long time ago
