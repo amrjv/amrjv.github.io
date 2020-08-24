@@ -31,10 +31,10 @@
 
 ### Random Kaggle Projects that I did a long time ago
 [salt deposits geological prediction](/pages/notebook_salt_prediction/Salt_Dataset.html)
-<img src="images/notebook_salt_prediction/cover_page.PNG?raw=true"/>
+<img src="/pages/notebook_salt_prediction/cover_page.PNG?raw=true"/>
 
 [rodent mitochondria CNN exploration](/pages/notebook_rodent_mito/tomography_analysis.html)
-<img src="/pages/notebook_rodent_mito/cover_image.PNG?raw=true"/>
+<img src="/pages/notebook_rodent_mito/cover_page.PNG?raw=true"/>
 
 
 
