@@ -22,7 +22,7 @@
 
 ### Automated HTML reporting from web app outputs
 [automated reporting of outputs from web applications](/pages/automated_reporting/report3D.html)
-<img src="/pages/particle_separation_with_clustering/cover_image.PNG?raw=true"/>
+<img src="/pages/automated_reporting/cover_image.PNG?raw=true"/>
 
 
 ### PhD Project
