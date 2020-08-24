@@ -11,12 +11,6 @@
 [particle separation with clustering](/pages/particle_separation_with_clustering/page)
 <img src="/pages/particle_separation_with_clustering/cover_image.PNG?raw=true"/>
 
-
-### Automated HTML reporting from web app outputs
-[automated reporting of outputs from web applications](/pages/particle_separation_with_clustering/page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
 ### Dashboards
 [Exploring displaying capabilities for atomic models using dash](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -24,18 +18,23 @@
 [Google news web scraper and summariser](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+### Automated HTML reporting from web app outputs
+[automated reporting of outputs from web applications](/pages/particle_separation_with_clustering/page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ### PhD Project
 [Quantitative STEM of catalyst nanoparticles](/pdf/phd_project.pdf)
 <img src="images/project_cycle.PNG?raw=true"/>
 
+<!---
 ### Random Kaggle Projects that I did a long time ago
 [salt deposits geological prediction](/pages/notebook_salt_prediction/Salt_Dataset.html)
 <img src="/pages/notebook_salt_prediction/cover_page.PNG?raw=true"/>
 
 [rodent mitochondria CNN exploration](/pages/notebook_rodent_mito/tomography_analysis.html)
 <img src="/pages/notebook_rodent_mito/cover_page.PNG?raw=true"/>
-
+--->
 
 
 ---
