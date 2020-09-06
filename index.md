@@ -29,9 +29,12 @@
 [Quantitative STEM of catalyst nanoparticles](/pdf/phd_project.pdf)
 <img src="images/project_cycle.PNG?raw=true"/>
 
+<!---
 ### Digital Artwork
 [using style transfer to create art](/pages/particle_separation_with_clustering/page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+--->
+
 
 <!---
 ### Random Kaggle Projects that I did a long time ago
